@@ -1,16 +1,16 @@
-## Hi there 👋
+### Sejam Bem Vindos ao meu perfil😉😁❤️
 
-<!--
-**Lilis2013/Lilis2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Elis, mas pode me chamar de Lilis
 
-Here are some ideas to get you started:
+- Estudo no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo em linguagem de JavaScript
+- Este espaço está sendo utilizado para minha organização e para compartilhar meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Para entrar em contato comigo 📫
+
+elis.jesus095@gmail.com
+
+@vkive_3269
+
+![](https://media.tenor.com/nXnJ0Tjwq1wAAAAM/ksjprincee-jungkook.gif)
+![](https://media.tenor.com/LtDR7BpmomUAAAAM/hyunjin-cute.gif)
